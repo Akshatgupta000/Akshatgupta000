@@ -1,48 +1,63 @@
-# 👋 Hi, I'm Akshat Gupta
-### Full Stack Web Developer | MERN Stack | DSA Enthusiast
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Akshatgupta000-black?logo=github)](https://github.com/Akshatgupta000)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Gupta-blue?logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-akshattgupta01@gmail.com-red?logo=gmail)](mailto:akshattgupta01@gmail.com)
+# 👋 Hey! I'm Akshat Gupta
+
+### 💻 Full Stack Developer | MERN Stack | DSA Enthusiast
+
+<p>
+<a href="https://github.com/Akshatgupta000">GitHub</a> •
+<a href="https://linkedin.com/in/your-link">LinkedIn</a> •
+<a href="mailto:akshattgupta01@gmail.com">Email</a>
+</p>
+
+</div>
 
 ---
 
 # 🚀 About Me
 
 🎓 BTech Computer Science Student  
-💻 MERN Stack Developer passionate about building scalable web applications  
-📚 Currently improving problem solving using **Data Structures & Algorithms**
+💻 Passionate about building **full stack web applications**  
+🧠 Strong interest in **Data Structures & Algorithms**  
 
 - 🌍 Based in: India  
-- 🧠 Currently Learning: **System Design, Authentication, Backend Scaling**  
+- 🧠 Currently Learning: **System Design & Backend Architecture**  
 - 👨‍💻 Working with: **React, Node.js, Express, MongoDB**  
-- 💼 Looking for: **Software Development / Full Stack Internships**  
+- 💼 Looking for: **Software Development Internships**  
 - 🤝 Open to: **Collaboration on meaningful tech projects**
 
 ---
 
 # 🛠️ Tech Stack
 
-## Languages
-C++ | JavaScript | Python | SQL
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-## Frontend
-React.js | HTML5 | CSS3 | Tailwind CSS | Vite
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
-## Backend
-Node.js | Express.js | REST APIs
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?logo=express)
 
-## Databases
-MongoDB | MySQL
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-## Tools
-Git | GitHub | VS Code | Postman | Figma
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code)
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshatgupta000&show_icons=true&theme=tokyonight)
+![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshatgupta000&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatgupta000&layout=compact&theme=tokyonight)
 
@@ -50,19 +65,20 @@ Git | GitHub | VS Code | Postman | Figma
 
 # 🏆 DSA & Coding Profiles
 
-- 🟨 LeetCode – Practicing Data Structures & Algorithms  
-- 🟧 HackerRank – Problem Solving and SQL  
-- 🟦 GeeksForGeeks - Practicing DSA and Computer Science Concepts
+🟨 **LeetCode** – Practicing Data Structures & Algorithms  
+🟧 **HackerRank** – Problem Solving & SQL  
+🟩 **GeeksforGeeks** – Practicing DSA and CS concepts  
 
 ---
 
 # 🚀 Featured Projects
 
-## 💼 HustleMap – Job Application Tracker
-Full stack job tracking system to organize internship and job applications.
+## 💼 HustleMap
+Full stack job application tracker.
 
 **Tech:** MERN Stack, Tailwind CSS  
-**Features:**
+
+Features:
 - Track job applications
 - Status management
 - Authentication system
@@ -73,37 +89,18 @@ Full stack job tracking system to organize internship and job applications.
 A financial awareness web platform analyzing spending habits.
 
 **Tech:** React, Node.js, Express  
-**Features:**
+
+Features:
 - Financial insights
-- Data visualization
 - Smart spending analysis
-
----
-
-# 🎓 Learning & Growth
-
-📚 Data Structures & Algorithms  
-📚 Backend Architecture  
-📚 Authentication & Security (JWT, bcrypt)  
-📚 System Design Basics  
-
----
-
-# 💡 Interests
-
-✨ Backend development  
-✨ Full-stack web applications  
-✨ System design and scalable architecture  
-✨ Open-source contributions  
-✨ Building impactful tech products  
 
 ---
 
 # 📬 Connect With Me
 
 📧 Email: akshattgupta01@gmail.com  
-💼 LinkedIn: https://linkedin.com  
 💻 GitHub: https://github.com/Akshatgupta000  
+💼 LinkedIn: https://linkedin.com  
 
 ---
 
