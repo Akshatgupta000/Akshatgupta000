@@ -52,7 +52,7 @@ Git | GitHub | VS Code | Postman | Figma
 
 - 🟨 LeetCode – Practicing Data Structures & Algorithms  
 - 🟧 HackerRank – Problem Solving and SQL  
-- 🟦 Codeforces – Competitive Programming  
+- 🟦 GeeksForGeeks - Practicing DSA and Computer Science Concepts
 
 ---
 
