@@ -108,6 +108,4 @@ Features:
 
 ⭐ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Akshatgupta000/Akshatgupta000/blob/output/github-contribution-grid-snake.svg)
