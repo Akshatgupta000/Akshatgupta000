@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-ff69b4" alt="MERN Badge" />
