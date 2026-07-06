@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshatgupta000&label=Profile%20views&color=0e75b6&style=flat" alt="Akshatgupta000" /> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/Akshatgupta000](https://github.com/Akshatgupta000)
+- 👨‍💻 All of my projects are available at [github.com/Akshatgupta000](https://akshattgupta.vercel.app/)
 
 - 📫 How to reach me **akshattgupta01@gmail.com**
 
