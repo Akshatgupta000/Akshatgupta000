@@ -2,7 +2,7 @@
 
   <!-- HERO BANNER -->
   <a href="https://github.com/Akshatgupta000">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220§ion=header&text=HELLO!%20I'M%20AKSHAT&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Backend%20%7C%20Full-Stack%20%7C%20AI%20Engineering%20Student&descSize=16&descAlignY=65&descColor=8b949e" width="100%" alt="Header Banner" />
+    <img src="banner.png" width="100%" alt="Hello! I'm Akshat Banner" />
   </a>
 
   <!-- METRIC BADGES -->
@@ -20,7 +20,7 @@
   <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
       <td width="30%" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="140" alt="Tech Gear Illustration" />
+        <img src="side_character_1.png" width="160" alt="Pixel Knight Character" />
       </td>
       <td width="70%" align="left" valign="middle">
         <p>
@@ -51,14 +51,14 @@
         <!-- SOCIAL ICONS -->
         <p align="center">
           <a href="https://linkedin.com/in/akshatgupta-/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn" /></a>
-            
+          &nbsp;&nbsp;
           <a href="mailto:akshattgupta01@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32" alt="Gmail" /></a>
-            
+          &nbsp;&nbsp;
           <a href="https://github.com/Akshatgupta000"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="32" height="32" alt="GitHub" /></a>
         </p>
       </td>
       <td width="30%" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Computers/Desktop%20Computer.png" width="130" alt="Developer Setup" />
+        <img src="side_character_2.png" width="160" alt="Pixel Creature Character" />
       </td>
     </tr>
   </table>
