@@ -51,9 +51,9 @@
         <!-- SOCIAL ICONS -->
         <p align="center">
           <a href="https://linkedin.com/in/akshatgupta-/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn" /></a>
-          &nbsp;&nbsp;
+            
           <a href="mailto:akshattgupta01@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32" alt="Gmail" /></a>
-          &nbsp;&nbsp;
+            
           <a href="https://github.com/Akshatgupta000"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="32" height="32" alt="GitHub" /></a>
         </p>
       </td>
@@ -112,13 +112,5 @@
       </td>
     </tr>
   </table>
-
-  <br />
-
-  <!-- CONTRIBUTION GRAPH -->
-  <h3><font color="#ffffff">📈 Contribution Graph</font></h3>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshatgupta000&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=false" width="100%" alt="Contribution Graph" />
-  </p>
 
 </div>
