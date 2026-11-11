@@ -54,7 +54,7 @@
             
           <a href="mailto:akshattgupta01@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32" alt="Gmail" /></a>
             
-          <a href="https://github.com/Akshatgupta000"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="32" height="32" alt="GitHub" /></a>
+          <a href="https://akshattgupta.vercel.app/"><b>Portfolio</b></a>
         </p>
       </td>
       <td width="30%" align="center" valign="middle">
